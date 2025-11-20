@@ -8,3 +8,5 @@ function isPalindrome(x) {
     return false;
   }
 }
+
+console.log(isPalindrome("Luis"));
